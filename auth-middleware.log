@@ -1,0 +1,14 @@
+2026-06-05T07:55:01.960Z GET / - checking auth
+2026-06-05T07:56:22.306Z GET / - checking auth
+2026-06-05T07:56:59.050Z GET / - checking auth
+2026-06-05T07:57:41.354Z GET /reports/summary - checking auth
+2026-06-05T07:57:41.497Z GET / - checking auth
+2026-06-05T07:57:48.142Z GET /categories - checking auth
+2026-06-05T07:57:48.146Z GET /all - checking auth
+2026-06-05T07:58:12.745Z POST / - checking auth
+2026-06-05T07:58:43.781Z GET /reports/summary - checking auth
+2026-06-05T07:58:43.825Z GET / - checking auth
+2026-06-05T07:59:05.673Z GET / - checking auth
+2026-06-05T08:00:42.725Z GET / - checking auth
+2026-06-05T08:01:47.968Z GET / - checking auth
+2026-06-05T08:04:51.659Z GET / - checking auth

@@ -1,6 +1,15 @@
 node_modules/
 .env
 .env.local
+.env.*
+
+auth.js
+db.js
+auth*.js
+db*.js
+
+# build output
+/dist/
 dist/
 build/
 coverage/
